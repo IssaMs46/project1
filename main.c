@@ -1,4 +1,4 @@
 #include <stdio.h>#include <stdlib.h>int main(){
-    printf("AAAAAAA\n");
+    printf("jijijaja\n");
     return(EXIT_SUCCESS);
 }
